@@ -1,0 +1,49 @@
+,data,hora,grupo,seleção1,seleção2,estádio
+0,21/11/2022,07:00,A,Senegal,Holanda,AL THUMAMA
+1,21/11/2022,13:00,A,Qatar,Equador,AL KHOR
+2,25/11/2022,10:00,A,Qatar,Senegal,AL THUMAMA
+3,25/11/2022,13:00,A,Holanda,Equador,INTER. KHALIFA
+4,29/11/2022,12:00,A,Holanda,Qatar,AL KHOR
+5,29/11/2022,12:00,A,Equador,Senegal,INTER. KHALIFA
+6,21/11/2022,10:00,B,Inglaterra,Iran,INTER. KHALIFA
+7,21/11/2022,16:00,B,Estados Unidos,País de Gales,AL RAYYAN
+8,25/11/2022,07:00,B,País de Gales,Iran,AL RAYYAN
+9,25/11/2022,16:00,B,Inglaterra,Estados Unidos,AL KHOR
+10,29/11/2022,16:00,B,País de Gales,Inglaterra,AL RAYYAN
+11,29/11/2022,16:00,B,Iran,Estados Unidos,AL THUMAMA
+12,22/11/2022,07:00,C,Argentina,Arábia Saudita,CID. EDUCAÇÃO
+13,22/11/2022,13:00,C,México,Polônia,AL WAKRAH
+14,26/11/2022,10:00,C,Polônia,Arábia Saudita,CID. EDUCAÇÃO
+15,26/11/2022,16:00,C,Argentina,México,NAC. DE LUSAIL
+16,30/11/2022,16:00,C,Polônia,Argentina,PORTO DE DOHA
+17,30/11/2022,16:00,C,Arábia Saudita,México,NAC. DE LUSAIL
+18,22/11/2022,10:00,D,Dinamarca,Tunísia,CID. EDUCAÇÃO
+19,22/11/2022,16:00,D,França,Austrália,AL WAKRAH
+20,26/11/2022,07:00,D,Tunísia,Austrália,AL WAKRAH
+21,26/11/2022,13:00,D,França,Dinamarca,PORTO DE DOHA
+22,30/11/2022,12:00,D,Tunísia,França,CID. EDUCAÇÃO
+23,30/11/2022,12:00,D,Austrália,Dinamarca,AL WAKRAH
+24,23/11/2022,10:00,E,Alemanha,Japão,INTER. KHALIFA
+25,23/11/2022,13:00,E,Espanha,Costa Rica,AL THUMAMA
+26,27/11/2022,07:00,E,Japão,Costa Rica,AL RAYYAN
+27,27/11/2022,16:00,E,Espanha,Alemanha,AL KHOR
+28,01/12/2022,16:00,E,Japão,Espanha,INTER. KHALIFA
+29,01/12/2022,16:00,E,Costa Rica,Alemanha,AL KHOR
+30,23/11/2022,07:00,F,Marrocos,Croácia,AL KHOR
+31,23/11/2022,16:00,F,Bélgica,Canadá,AL RAYYAN
+32,27/11/2022,10:00,F,Bélgica,Marrocos,AL THUMAMA
+33,27/11/2022,13:00,F,Croácia,Canadá,INTE. KHALIFA
+34,01/12/2022,12:00,F,Croácia,Bélgica,AL RAYYAN
+35,01/12/2022,12:00,F,Canadá,Marrocos,AL THUMAMA
+36,24/11/2022,07:00,G,Suiça,Camarões,AL WAKRAH
+37,24/11/2022,16:00,G,Brasil,Sérvia,NAC. LUSAIL
+38,28/11/2022,07:00,G,Camarões,Sérvia,AL WAKRAH
+39,28/11/2022,13:00,G,Brasil,Suiça,PORTO DE DOHA
+40,02/12/2022,16:00,G,Camarões,Brasil,NAC. LUSAIL
+41,02/12/2022,16:00,G,Sérvia,Suiça,PORTO DE DOHA
+42,24/11/2022,10:00,H,Uruguai,Coreia do Sul,CID. EDUCAÇÃO
+43,24/11/2022,13:00,H,Portugal,Gana,PORTO DE DOHA
+44,28/11/2022,10:00,H,Coreia do Sul,Gana,CID. EDUCAÇÃO
+45,28/11/2022,16:00,H,Portugal,Uruguai,NAC. LUSAIL
+46,02/12/2022,12:00,H,Coreia do Sul,Portugal,CID. EDUCAÇÃO
+47,02/12/2022,12:00,H,Gana,Uruguai,AL WAKRAH
